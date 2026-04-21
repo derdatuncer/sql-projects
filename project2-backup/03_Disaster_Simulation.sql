@@ -18,7 +18,6 @@ GO
 DELETE FROM dbo.MusteriHesaplari; 
 GO
 
--- Test edelim, tablo boş mu?
 SELECT COUNT(*) AS Kalan_Kayit_Sayisi FROM dbo.MusteriHesaplari;
 GO
 
