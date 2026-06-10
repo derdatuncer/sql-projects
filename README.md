@@ -57,4 +57,3 @@ Veritabanı yönetim süreçlerini optimize etmek amacıyla yedekleme işlemleri
 - 📺 **Proje Sunumu:** [YouTube Üzerinden İzle](https://www.youtube.com/watch?v=HpMqFHUBQNQ)
 
 ---
-*Bu repo akademik amaçlarla hazırlanmıştır. Projeler hakkındaki geri bildirimleriniz için iletişime geçebilirsiniz.*
