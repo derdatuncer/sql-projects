@@ -53,7 +53,7 @@ Veritabanı yönetim süreçlerini optimize etmek amacıyla yedekleme işlemleri
 > * **SQL Server Agent** kullanılarak düzenli yedekleme görevlerinin otomatikleştirilmesi.
 > * **PowerShell** ve T-SQL scriptleri ile detaylı yedekleme raporları oluşturulması.
 > * Yedekleme işlemleri başarısız olduğunda yöneticilere anında bildirim gönderen uyarı mekanizmalarının kurulması.
-- 📁 **Kaynak Kodlar:** [`/project7-automation`](./project7-automation)
+- 📁 **Kaynak Kodlar:** [`/project7-backupAuto`](./project7-backupAuto)
 - 📺 **Proje Sunumu:** [YouTube Üzerinden İzle](https://www.youtube.com/watch?v=HpMqFHUBQNQ)
 
 ---
